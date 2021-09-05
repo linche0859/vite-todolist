@@ -1,0 +1,17 @@
+<template>
+  <nav class="mb-4 space-x-4">
+    <button class="text-indigo-600 font-semibold">全部</button>
+    <button class="text-indigo-300 font-semibold">未完成</button>
+    <button class="text-indigo-300 font-semibold">已完成</button>
+  </nav>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
